@@ -1,0 +1,7 @@
+.signUpform{
+  width: 45% !important;
+  margin: auto;
+  margin-top: 10%;
+  border: 2px outset gray;
+  border-radius: 10px;
+}
